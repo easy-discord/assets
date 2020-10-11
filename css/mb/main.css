@@ -1,0 +1,11 @@
+body {
+    color: var(--font);
+    background: #000;
+    background: radial-gradient(circle,var(--background-primary) 0,var(--background-secondary) 100%)!important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden!important;
+    font-family: Whitney-Semibold Regular,Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
